@@ -10,7 +10,7 @@ public class Ej2 : MonoBehaviour {
     public int product1;
     public int product2;
     public int product3;
-    int dinerodisponible;
+    public int dinerodisponible;
     int dinerofalta;
     int suma;
     int dinerosobrante;
